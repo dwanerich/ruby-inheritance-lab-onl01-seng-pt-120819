@@ -9,6 +9,6 @@ class Student < User
   end
 
   def knowledge
-    knowledge
+    return knowledge
   end
 end
