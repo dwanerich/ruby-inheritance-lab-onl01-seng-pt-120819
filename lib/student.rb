@@ -8,6 +8,6 @@ end
 
   end
 
-  def knowledge
+  def self.knowledge
     @knowledge
   end
