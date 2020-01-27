@@ -8,7 +8,7 @@ class Student < User
 
   end
 
-  def knowledge
+  def self.knowledge
     @knowledge
   end
 end
